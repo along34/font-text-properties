@@ -86,11 +86,11 @@ nav a{
 	padding: 1rem;
 	background-color: var(--tiffany);
 	/* set the font color to #222 (--dk-gray) */
-	color: var (--dk-gray);
+	color: var(--dk-gray);
 	/* center align the text */
-	text-align:center;
+	text-align: center;
 	/* remove the underline */
-	text-decoration:none;
+	text-decoration: none;
 	/* make the font's size 1.2rem */
 	font-size: 1.2rem;
 	/* make the font bolder (600) */
